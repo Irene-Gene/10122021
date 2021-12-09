@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DayPhrase">Следующий мотиватор</string>
+    <string name="developers">Разработчики:</string>
+    <string name="new_motivation">Фразы</string>
+    <string name="about_us">О нас</string>
+    <string name="web">На сайт</string>
+</resources>
